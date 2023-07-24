@@ -17,6 +17,14 @@
     flex-wrap: wrap;
 }
 
+/* #region Flex  */
+
+    .d-flex {
+        display: flex;
+    }
+
+/* #endregion Flex  */
+
 
 /* #region Columns */
 
