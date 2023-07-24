@@ -15,8 +15,21 @@
 /* #endregion Common*/
 
 
-[class*="col-"] {
-    padding: 1px;
+/* #region Debug  */
+
+    .debug {
+        height: 20px;
+    }
+
+    .debug[class^="blue"] {
+        height: 30px;
+    }
+
+/* #endregion Flex  */
+
+
+[class^="col-"] {
+    padding: 2px;
 }
 
 .blue {
