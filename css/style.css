@@ -1,0 +1,28 @@
+
+/* #region Common*/
+
+    :root {
+        --fm-blue: #006cfa;
+        --fm-green: #00e165;
+    }
+
+
+    body {
+        font-size: 12px;
+        font-family: sans-serif;
+    }
+
+/* #endregion Common*/
+
+.blue {
+    background-color: var(--fm-blue);
+    color: white;
+}
+
+.green {
+    background-color: var(--fm-green);
+}
+
+
+
+
